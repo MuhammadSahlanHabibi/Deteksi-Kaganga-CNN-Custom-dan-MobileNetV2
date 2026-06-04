@@ -64,3 +64,7 @@ kaganga-classification/
 │   └── confusion_matrix.png
 │
 └── README.md
+
+# ⚙️ Instalasi & Setup
+1. Buka Google Colab dan Mount Google Drive
+Pastikan file dataset komering ulu.zip sudah berada di Google Drive Anda.
